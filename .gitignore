@@ -17,3 +17,6 @@
 Thumbs.db
 sysinfo.txt
 *.stackdump
+
+*.slnx
+*.sln.DotSettings.user
